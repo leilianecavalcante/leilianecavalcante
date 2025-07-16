@@ -17,6 +17,16 @@ oportunidades para contribuir na construção de uma área tech mais diversa e i
 - 📊 **Habilidades**: HTML, CSS e Javascript, Docker, FinOps, Kubernets
 - 🌍 **Idiomas**: Português (nativo), Inglês (básico)
 
+## 🚧 Projetos em Destaque
+
+### [Mapa do Racismo](https://github.com/leilianecavalcante/mapa-do-racismo)
+API colaborativa para registro e mapeamento de denúncias anônimas de racismo no Brasil. Tecnologias: Node.js, Express, Prisma, PostgreSQL.
+
+### [Crianças Desaparecidas](https://github.com/leilianecavalcante/M5-desaparecidos-docker)
+Landing page para conscientização sobre desaparecimentos infantis. Tecnologias: Next.js, React, TypeScript, Docker.
+
+
+
 ## 🔮 Principais Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
