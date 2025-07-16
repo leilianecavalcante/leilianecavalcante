@@ -2,12 +2,21 @@
 
 <h1 align="center"> Hi Guys, I´m happy glad you´re here! </h1>
 
+## 💜 Olá, meu nome é Leiliane!
+Estudante de ADS com foco em Desenvolvimento 
+Web Fullstack,atualmente desenvolvendo interesse por Cloud & DevOps. Jovem inquieta 
+e apaixonada por pessoas. Já atuei em  área  administrativa e de segurança 
+do trabalho, busco integrar todo meu conhecimento e experiência. Em busca de 
+oportunidades para contribuir na construção de uma área tech mais diversa e inclusiva.
+
 ## 🚀 Sobre mim
 
-- 🎓 **Formação**: Estudante de Análise e Desenvolvimento de Sistemas| Futura Desenvolvedora FullStack
-- 💻 **Atualmente**: Focada em **Backend**
-- 📊 **Habilidades**: HTML, CSS e Javascript
+- 🎓 **Formação**: Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 **Atualmente**: Focada Dev Web & DevSecOps
+- 💼 Trabalhando como Cloud & DevSecOps na Compass UOL.
+- 📊 **Habilidades**: HTML, CSS e Javascript, Docker, FinOps, Kubernets
 - 🌍 **Idiomas**: Português (nativo), Inglês (básico)
+
 
 
 ## 📫 Entre em Contato
