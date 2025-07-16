@@ -1,6 +1,6 @@
 <!-- README.md para o GitHub Profile -->
 
-<h1 align="center"> Hi Guys, I´m happy glad you´re here! </h1>
+<h1 align="center"> 🧙‍♀️Hi Guys, I´m happy glad you´re here! </h1>
 
 ## 💜 Olá, meu nome é Leiliane!
 Estudante de ADS com foco em Desenvolvimento 
@@ -43,5 +43,5 @@ oportunidades para contribuir na construção de uma área tech mais diversa e i
   <a href="liliannoguei001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/leh_cavalcanteofc/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href=target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
