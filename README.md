@@ -19,6 +19,10 @@ oportunidades para contribuir na construção de uma área tech mais diversa e i
 
 
 
+[![card](https://github-readme-stats.vercel.app/api?username=leilianecavalcante&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![leiliane](https://github-readme-stats.vercel.app/api/top-langs/?username=leilianecavalcante&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📫 Entre em Contato
 <p>
   <a href="https://www.linkedin.com/in/leeh-cavalcante-5313881b3/" target="_blank">
