@@ -13,7 +13,7 @@ oportunidades para contribuir na construção de uma área tech mais diversa e i
 
 - 🎓 **Formação**: Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 **Atualmente**: Focada Dev Web & DevSecOps
-- 💼 Trabalhando como Cloud & DevSecOps na Compass UOL.
+- 💼 **Trabalhando** como Cloud & DevSecOps na Compass UOL.
 - 📊 **Habilidades**: HTML, CSS e Javascript, Docker, FinOps, Kubernets
 - 🌍 **Idiomas**: Português (nativo), Inglês (básico)
 
